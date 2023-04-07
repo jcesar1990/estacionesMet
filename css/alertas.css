@@ -1,0 +1,509 @@
+.txtBol
+{
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#444444;
+	padding-left:5px;
+}
+
+.subtitulo
+{
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	color:#008082
+}
+
+.titulo
+{
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	color:#008082
+}
+
+.lineaMenu
+{
+	color:#2a5d50
+
+}
+
+p.subtitle
+{
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	color:#008082;
+}
+
+.tblIndice {
+ border-collapse:collapse; 
+  margin-bottom:15px;
+  width:50%;
+  align:center;
+}
+
+.celdaGris{
+  background-color: #D9D9D9;
+	color: #696969;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	valign:middle;
+	text-align: center;
+}
+
+.celdaAzulClaro{
+	background-color: #DDEBF7;
+	color:#696969;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	valign:middle;
+	text-align: center;
+}
+
+.celdaAzulFuerte{
+  background-color: #95D3EE;
+	color:#696969;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	valign:middle;
+	text-align: center;
+}
+
+.celdaVerdeClaro{
+  background-color: #A9D08E;
+	color:#696969;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	valign:middle;
+	text-align: center;
+}
+
+.celdaVerdeFuerte{
+  background-color: #00B050;
+	color:#DCDCDC;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	box-align:middle;
+	text-align: center;
+}
+
+
+
+.celdaAmarillo{
+  background-color: yellow;
+	color:#000000;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	box-align:middle;
+	text-align: center;
+}
+
+.celdaRojo{
+  background-color: red;
+	color: #FFFFFF;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	valign:middle;
+	text-align: center;
+}
+
+.celdaPurpura{
+  background-color: #AA00FF;
+	color:#E5FFCC;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	box-align:middle;
+	text-align: center;
+}
+
+
+.celdaNaranja{
+	background-color:#ff9900;
+	  color:#000000;
+	  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	  font-size: 16px;
+	  font-style: normal;
+	  font-variant: normal;
+	  font-weight:bold;
+	  line-height: 26.4px;
+	  valign:middle;
+	  text-align: center;
+  }
+  
+
+.celdaBlanco{
+  background-color: #FFFFFF;
+	color:#000000;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight:bold;
+	line-height: 26.4px;
+	box-align:middle;
+	text-align: center;
+}
+
+.celdaAmarilloClaro{
+    background-color: #FFFACD;
+      color:#000000;
+      font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-variant: normal;
+      font-weight:bold;
+      line-height: 26.4px;
+      box-align:middle;
+      text-align: center;
+  }
+
+
+.bg-linea-diagonal{
+    background: repeating-linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0) 20px,
+      rgba(0, 0, 0, 0) 40px,
+      #DF6C4F 40px,
+      #DF6C4F 60px
+    );
+}
+
+a.normal:link{
+    color: blue;	 
+    font-size:16px;
+    text-decoration: underline;
+    background-color:#f2f2f2;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	  font-size:16px;
+}
+
+a.normal:hover{
+	 color: #DF0101;
+	 text-decoration: underline;
+	 background-color: #F8E0E6;
+}
+
+/*
+
+th:nth-child(odd) {
+    background-color:#f2f2f2;
+    font-size:18px;
+}
+th:nth-child(even) {
+    background-color:#fbfbfb;
+    font-size:18px;
+}
+
+td{
+font-size:16px;
+}
+
+*/
+
+/*
+th{
+font-size:13px;
+}
+*/
+
+caption {
+   padding: 0.3em;
+   color: #585858;
+   background: #fbfbfb;
+	 font-weight:bold;
+	 font-family: "fantasy";
+}
+
+.lineaVerde {
+color: #01DF01;
+font-size:13px;
+text-align: center;
+}
+
+.lineaAzul{
+color: #0404B4;
+font-size:13px;
+font-weight:bold;
+text-align: center;
+}
+
+.lineaRoja{
+color: #DF0101;
+font-size:13px;
+font-weight:bold;
+text-align: center;
+}
+
+.peqCurs{
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+color: #424242;
+font-size:12px;
+font-style: italic;
+text-align: left;
+}
+
+varResalte {
+color: #DF0101;
+font-size:16px;
+font-family: "Times New Roman", Times, serif;
+}
+
+
+.txtColorCFE
+{
+color: #009969;
+font-size:18px;
+font-family: "Verdana", Times, serif;
+text-align: justify;
+}
+.txtNormalCh
+{
+color: #585858;
+font-size:12px;
+font-weight:bold;
+font-family: "Times New Roman", Times, serif;
+}
+
+.cuadroAmarillo
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: yellow;
+}
+
+.cuadroVerdeClaro
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: #A9D08E;
+}
+.cuadroVerdeFuerte
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: #00B050;
+}
+
+.cuadroAmarilloClaro
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #000000;
+     background:  #FFFACD;
+}
+
+.cuadroAzulClaro
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: #DDEBF7;
+}
+
+.cuadroAzulFuerte
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: #95D3EE;
+}
+
+.cuadroGris
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: #D9D9D9;
+}
+
+.cuadroNaranja
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: orange;
+}
+
+.cuadroRojo
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: red;
+}
+
+.cuadroPurpura
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #555;
+     background: #AA00FF;
+}
+
+.cuadroBlanco
+{
+     width: 12px; 
+     height: 12px; 
+     border: 1px solid #000000;
+     background: #ffffff;
+}
+
+hr {
+    background-color: #ab8d5d;
+    height: 6px;
+    margin-left: 75;
+    margin-right: 78;
+      border-color: #ab8d5d;
+  }
+/*
+estandar{
+		font-family: verdana; 
+		font-size:200%;
+}
+
+table {
+  border-collapse:collapse;
+  margin-bottom:15px;
+  width:90%;
+  align:center;
+}
+
+table.center{	 
+	margin-left:auto; 
+  margin-right:auto;
+}
+	
+table.justificada{	 
+  margin-left:15px; 
+  margin-right:15px;
+  align:justify;
+}
+
+Se define el color de letra de las celdas de tabla
+table th {
+padding: 5px;
+border: 1px solid #fff;
+border-width: 0 1px 1px 0;
+color: #fff;/*letra blanca
+}
+
+/*Se define el color de letra de las celdas de tabla*/
+
+	
+/*Encabezados de tabla
+tbody th,
+tfoot th {
+	text-align:center;
+	background:#0B0B3B; 
+	color: #fff;
+	font-family: verdana; 
+	font-size:11px;
+}
+/*Fuentes
+.fntMarinoGde {
+color: #000066;
+font-family: sans-serif; 
+font-size:24px;
+text-align: right;
+}
+
+.fntMarinoMedB {
+color: #000066;
+font-weight:bold;
+font-family: verdana; 
+font-size:16px;
+}
+
+.fntMarinoChB {
+color: #000066;
+font-weight:bold;
+font-family: verdana; 
+font-size:14px;
+}
+	
+.fntMarinoCh {
+color: #000066;
+font-weight:normal;
+font-family: verdana; 
+font-size:12px;
+}
+
+.fntGrisNorm {
+color: #424242;
+font-family: verdana; 
+font-weight: normal;
+font-size:12px;
+}
+
+.tempX{
+color: #FF0000;
+font-family: Helvetica; 
+font-weight: normal;
+font-size:14px;
+text-align: right;
+border: 1px solid #0B0B3B;
+border-width: 1px 0 0 0;
+}
+
+.tempN{
+color: #0404B4;
+font-family: Helvetica; 
+font-weight: normal;
+font-size:14px;
+text-align: right;
+}
+	
+p{
+color: #151515;
+font-weight: normal;
+font-size: 14px;
+font-family: corbel;
+text-align: justify;
+}
+
+*/

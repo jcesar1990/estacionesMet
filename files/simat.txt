@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string xmlns="http://cpa.blog.mx/">{
+    "pollutionMeasurements":{
+        "city": "Ciudad de México",
+        "cityCode": "MEX",
+        "country": "México",
+        "mesurementAgency": "SIMAT",
+        "URL": "http://www.aire.cdmx.gob.mx/",
+        "timeStamp": "04/06/2023 16:09",
+		"IUV":"5",
+          "stations": [
+                {
+                "name": "Acolman",
+                "shortName": "ACO",
+                "location": "19.635501,-98.912003",
+                "temperature": "24.6 ",
+                "humidity": "10 ",
+                "windDirection": "151.6 ",
+                "windSpeed": "22 "
+                },
+                {
+                "name": "Ajusco Medio",
+                "shortName": "AJM",
+                "location": "19.272083,-99.20758",
+                "temperature": "22.6 ",
+                "humidity": "21 ",
+                "windDirection": "197.7 ",
+                "windSpeed": "23.7 "
+                },
+                {
+                "name": "Atizapán",
+                "shortName": "ATI",
+                "location": "19.577009,-99.254244",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+                {
+                "name": "Benito Juárez",
+                "shortName": "BJU",
+                "location": "19.371675,-99.159074",
+                "temperature": "26.6 ",
+                "humidity": "16 ",
+                "windDirection": "145.1 ",
+                "windSpeed": "12.4 "
+                },				
+                {
+                "name": "Camarones",
+                "shortName": "CAM",
+                "location": "19.468404,-99.169794",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+                {
+                "name": "Chalco",
+                "shortName": "CHO",
+                "location": "19.266948,-98.886088",
+                "temperature": "26.5 ",
+                "humidity": "19 ",
+                "windDirection": "214.9 ",
+                "windSpeed": "5.6 "
+                },
+                {
+                "name": "Cuajimalpa",
+                "shortName": "CUA",
+                "location": "19.365313,-99.291705",
+                "temperature": "23.9 ",
+                "humidity": "17 ",
+                "windDirection": "259 ",
+                "windSpeed": "13 "
+                },
+                {
+                "name": "Cuautitlán",
+                "shortName": "CUT",
+                "location": "19.722186,-99.198602",
+                "temperature": "28.1 ",
+                "humidity": "14 ",
+                "windDirection": "133.4 ",
+                "windSpeed": "10.8 "
+                },
+                {
+                "name": "FES Acatlán",
+                "shortName": "FAC",
+                "location": "19.482473,-99.243524",
+                "temperature": "28.4 ",
+                "humidity": "10 ",
+                "windDirection": "187.2 ",
+                "windSpeed": "9.6 "
+                },
+{
+                "name": "FES Aragón",
+                "shortName": "FAR",
+                "location": "19.473692,-99.046176",
+                "temperature": "28.3 ",
+                "humidity": "15 ",
+                "windDirection": "152.4 ",
+                "windSpeed": "16.9 "
+                },
+                {
+                "name": "Hospital General de México",
+                "shortName": "HGM",
+                "location": "19.411617,-99.152207",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+				{
+                "name": "Gustavo A. Madero",
+                "shortName": "GAM",
+                "location": "19.482758,-99.094648",
+                "temperature": "27.3 ",
+                "humidity": "20 ",
+                "windDirection": "188.9 ",
+                "windSpeed": "16.1 "
+                },				
+                {
+                "name": "Investigaciones Nucleares",
+                "shortName": "INN",
+                "location": "19.291968,-99.38052",
+                "temperature": "19.6 ",
+                "humidity": "33 ",
+                "windDirection": "221.6 ",
+                "windSpeed": "13.2 "
+                },				
+                {
+                "name": "Iztacalco",
+                "shortName": "IZT",
+                "location": "19.384413,-99.117641",
+                "temperature": " ",
+                "humidity": " ",
+                "windDirection": " ",
+                "windSpeed": " "
+                },
+                {
+                "name": "Los Laureles",
+                "shortName": "LLA",
+                "location": "19.578792,-99.039644",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+                {
+                "name": "La Presa",
+                "shortName": "LPR",
+                "location": "19.534727,-99.11772",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+                {
+                "name": "Merced",
+                "shortName": "MER",
+                "location": "19.42461,-99.119594",
+                "temperature": "27.5 ",
+                "humidity": "20 ",
+                "windDirection": "164.1 ",
+                "windSpeed": "12.5 "
+                },
+                {
+                "name": "Montecillo",
+                "shortName": "MON",
+                "location": "19.460415,-98.902853",
+                "temperature": "26.3 ",
+                "humidity": "16 ",
+                "windDirection": "174.5 ",
+                "windSpeed": "15.2 "
+                },
+                {
+                "name": "Milpa Alta",
+                "shortName": "MPA",
+                "location": "19.200712,-99.011325",
+                "temperature": "25 ",
+                "humidity": "23 ",
+                "windDirection": "169 ",
+                "windSpeed": "13.2 "
+                },
+                {
+                "name": "Miguel Hidalgo",
+                "shortName": "MGH",
+                "location": "19.4040,-99.20272",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+                {
+                "name": "Nezahualcóyotl",
+                "shortName": "NEZ",
+                "location": "19.391986,-99.028181",
+                "temperature": "27.3 ",
+                "humidity": "14 ",
+                "windDirection": "207.9 ",
+                "windSpeed": "17.2 "
+                },
+                {
+                "name": "Pedregal",
+                "shortName": "PED",
+                "location": "19.325146,-99.204136",
+                "temperature": "25.9 ",
+                "humidity": "13 ",
+                "windDirection": "163 ",
+                "windSpeed": "13.2 "
+                },
+                {
+                "name": "San Agustín",
+                "shortName": "SAG",
+                "location": "19.532968,-99.030324",
+                "temperature": "28.4 ",
+                "humidity": "15 ",
+                "windDirection": "156.6 ",
+                "windSpeed": "6.7 "
+                },
+				{
+                "name": "Santiago Acahualtepec",
+                "shortName": "SAC",
+                "location": "19.34561,-99.009381",
+                "temperature": " ",
+                "humidity": "17 ",
+                "windDirection": " ",
+                "windSpeed": " "
+                },
+                {
+                "name": "Santa FE",
+                "shortName": "SFE",
+                "location": "19.357357,-99.262865",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+                {
+                "name": "Tláhuac",
+                "shortName": "TAH",
+                "location": "19.246459,-99.010564",
+                "temperature": "25 ",
+                "humidity": "19 ",
+                "windDirection": "207.7 ",
+                "windSpeed": "5.6 "
+                },
+                {
+                "name": "Tlalnepantla",
+                "shortName": "TLA",
+                "location": "19.529077,-99.204597",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+                {
+                "name": "Tultitlán",
+                "shortName": "TLI",
+                "location": "19.602542,-99.177173",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                },
+                {
+                "name": "UAM Xochimilco",
+                "shortName": "UAX",
+                "location": "19.304441,-99.103629",
+                "temperature": "24.8 ",
+                "humidity": "22 ",
+                "windDirection": "176.9 ",
+                "windSpeed": "11 "
+                },
+                {
+                "name": "UAM Iztapalapa",
+                "shortName": "UIZ",
+                "location": "19.360794,-99.07388",
+                "temperature": "27.7 ",
+                "humidity": "21 ",
+                "windDirection": "180.9 ",
+                "windSpeed": "10.8 "
+                },
+                {
+                "name": "Villa de las Flores",
+                "shortName": "VIF",
+                "location": "19.658223,-99.09659",
+                "temperature": "28 ",
+                "humidity": "13 ",
+                "windDirection": "144.3 ",
+                "windSpeed": "8 "
+                },
+                {
+                "name": "Xalostoc",
+                "shortName": "XAL",
+                "location": "19.525995,-99.0824",
+                "temperature": "",
+                "humidity": "",
+                "windDirection": "",
+                "windSpeed": ""
+                }
+            ]
+	}
+
+    
+}</string>
